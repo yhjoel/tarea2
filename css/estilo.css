@@ -1,0 +1,42 @@
+.principal{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /*nowrap*/
+    border-radius: 5px;
+}
+.caja1{
+    background-color: rgb(255, 238, 0);
+    width: 280px;
+    height: 500px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.contenedor{
+    display:flex;
+    height: 90px;
+    margin: 2px;
+    border-radius: 5px;
+
+}
+.cuadrado{
+    background-color: rgb(255, 72, 0);
+    width: 90px;
+    height: 90px;
+    margin: 2px;
+    border-radius: 5px;
+}
+.rectangulo{
+    background-color: rgb(115, 255, 0);
+    width: auto;
+    height: 90px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.cuadrado1{
+    background-color: rgb(247, 0, 255);
+    width: 90px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 5px;
+}
